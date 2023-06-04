@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.editable-row .ant-form-item-explain {
+  position: absolute;
+  top: 100%;
+  font-size: 12px;
+}
+
+table{
+  width: 90%;
+}
